@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true relation of the death and slaughter of a man and his son at plough, together with four horses, in the parish of Cookham in the county of Berks, Sept. 2, 1680 slain by the thunder and lightning that then and there happened, as may fully be testified by credible persons whose names are hereunto adjoyned : likewise the same day happened another sad accident near Norwich, eight persons, being struck dead in a church porch by thunder / published for prevention of false reports.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40591</idno>
+            <idno type="STC">Wing F2319</idno>
+            <idno type="STC">ESTC R36520</idno>
+            <idno type="EEBO-CITATION">15714334</idno>
+            <idno type="OCLC">ocm 15714334</idno>
+            <idno type="VID">104497</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40591)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104497)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1593:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true relation of the death and slaughter of a man and his son at plough, together with four horses, in the parish of Cookham in the county of Berks, Sept. 2, 1680 slain by the thunder and lightning that then and there happened, as may fully be testified by credible persons whose names are hereunto adjoyned : likewise the same day happened another sad accident near Norwich, eight persons, being struck dead in a church porch by thunder / published for prevention of false reports.</title>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Harding ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sawyer, John, d. 1680.</term>
+               <term>Lightning.</term>
+               <term>Berkshire (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104497:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <p>A FULL AND TRUE RELATION OF THE Death and Slaughter OF A MAN and his SON at PLOUGH, TOGETHER <hi>With FOUR HORSES,</hi> In the Pariſh of <hi>Cookham</hi> in the County of <hi>Berks, Sept.</hi> 2. 1680.</p>
+            <p>SLAIN BY THE <hi>Thunder and Lightning</hi> THAT Then and there happened, as may fully be teſtified by credible Perſons, whoſe Names are hereunto adjoyned. The ſame day happened another ſad Accident near <hi>Norwich,</hi> eight Perſons being ſtruck dead in a Church Porch by Thunder.</p>
+            <p>Publiſhed for prevention of falſe Reports.</p>
+            <figure>
+               <figDesc>depiction of Janus</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Harding</hi> at the <hi>Bible</hi> and <hi>Anc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or</hi> in <hi>Newport-Street</hi> near <hi>Leiceſter-Fields,</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104497:2"/>
+            <!-- PDF PAGE 35 -->
+            <pb n="1" facs="tcp:104497:2"/>
+            <!-- PDF PAGE 35 -->
+            <head>A full and true Relation of the Death and Slaughter of a Man and his Son at Plough, together with four Horſes, <hi>&amp;c.</hi>
+            </head>
+            <p>THurſday <hi>September</hi> the Second, 1680. <hi>John Sawyer,</hi> a Farmer with his Son <hi>Richard,</hi> a Youth of 13 Years of Age, went with four Horſes halfe a Mile to a Field in the Pariſh of <hi>Cookham,</hi> called by the Name of <hi>Ham</hi> Field, to Plough, about the hour of Ten in the forenoon, it being then fair weather, but about Eleven a Clock the Sky began to lower, the Clouds grew thick, and ſoon it Lightned and Thundred, and ſome ſhowers of Rain fell; it thundred ſeveral times very loud, ſharp, and ſhrill, to the amazement of ſeveral Perſons: two other Ploughs were at work in the ſame Field at the ſame time; their Cattel being afrighted and unruly, they ſhoot off and go home, and leave <hi>John Sawyer</hi> in the Field, about one of the Clock the Tempeſt began to give off. Four hours after a neighbouring Man a Labourer, one <hi>Francis Dell,</hi> paſ<g ref="char:EOLhyphen"/>ſing from the Woods ſide down to <hi>Cookham,</hi> ſees this <hi>John Sawyer,</hi> with his Son <hi>Richard,</hi> and the four Horſes all dead on the ground: knowing the Man and his Cattel, he came into <hi>Cookham,</hi> and acquaints the Inhabitants with the Matter, immediately the Major part of the Towns Folks flockt up into the Fields to ſee this ſad Spectacle of amazement, and with the reſt, the Wife of the ſaid <hi>John Sawyer,</hi> where to her exceeding grief ſhe ſaw her Husband, Son, and Four Hor<g ref="char:EOLhyphen"/>ſes dead, no impreſſion of any ſtroak or bruiſe on the Man, but the Boy his Cloaths were moſt part of them rent from his body, and his Hat torn in two or three Pieces; One Shooe all the upper leather torn from the Sole and Heel: and his Whip broke in two or three pieces, his Shirt beaten to Lint, and ſtrewed on the Horſe he was ſuppoſed to ride, except one narrow Slip from his Neck to the fore part, only remaining from his Neck downward before; he was obſer<g ref="char:EOLhyphen"/>ved to be naked, and from the Neck down his Back burnt, or ſinged, as is ſup<g ref="char:EOLhyphen"/>poſed with the Lightning, likewiſe ſcorched or ſinged on the belly, ſome part of his hair ſinged, as the Eye-brows, and part of the hair of his Head; and that the Horſe he was ſuppoſed to ride, was ſinged from the Neck to the Flanck. It is judged by thoſe Plough-men that ſhot out, and came home ſafe, that it might be the laſt Clap of Thunder and Lightning that afforded them that fatal ſtroak. <hi>John Sawyer</hi> and his Son had ſhot out from Plough, and were about ſix Pole from the Plough, each of them being ſuppoſed to be Riding homeward, they each of them having their left Leg under the near ſide of the Horſes they were ſuppoſed to Ride; the Horſes falling all one way, it is judged that the Horſes were ſtruck immediately dead in their walk, none of them having ſo much as one Leg ſtretched out, or any reaſon to conclude that they ſtrove
+<pb n="2" facs="tcp:104497:3"/>
+               <!-- PDF PAGE 36 -->
+for Life. <hi>John Sawyer</hi> was a Man of good repute among his Neighbours, that lived Soberly and Honeſtly. On <hi>Saturday</hi> the 14th. of <hi>September,</hi> the Coroner came and called a Jury for Inquiry, and they gave their Verdict that it was the immediate providence of Almighty God; and ſo the Coroner gave order for the Burial of the Man and his Son, which the ſame Evening was per<g ref="char:EOLhyphen"/>formed.</p>
+            <p>We whoſe Names are here under Written do teſtify the Truth of this Relation:</p>
+            <list>
+               <item>
+                  <hi>Jo. Whitfield,</hi> 
+                  <abbr>Eſq</abbr> Juſtice of Quorum for <hi>Berkſhire.</hi>
+               </item>
+               <item>
+                  <hi>Fran. Crawley,</hi> Vic. de <hi>Cookham.</hi>
+               </item>
+               <item>
+                  <hi>Robert Bennet,</hi> Church-wardens of <hi>Cookham.</hi>
+               </item>
+               <item>
+                  <hi>John Rea,</hi> Church-wardens of <hi>Cookham.</hi>
+               </item>
+               <item>
+                  <hi>John Chery</hi> of <hi>Maiden head,</hi> Warden of the Town.</item>
+               <item>
+                  <hi>Thomas Bird,</hi> Apprentice at Mr. <hi>King's</hi> a Fiſhmonger in <hi>Newgate-Market,</hi> whoſe Father liveth at <hi>Cookham,</hi> was likewiſe at <hi>Cookham</hi> when this ſad Ac<g ref="char:EOLhyphen"/>cident happened, and ſaw the Man, Boy, and Horſes in the Field.</item>
+               <item>
+                  <hi>John Harding,</hi> being very near the place the next day.</item>
+               <item>From <hi>Cookham</hi> to <hi>Maiden-head</hi> 2 <hi>Miles.</hi>
+               </item>
+               <item>From <hi>Cookham</hi> to <hi>Marlow</hi> 3 <hi>Miles.</hi>
+               </item>
+               <item>From <hi>Cookham</hi> to <hi>Windſor</hi> 6 <hi>Miles.</hi>
+               </item>
+               <item>From <hi>Cookham</hi> to <hi>Beconsfield</hi> 3 <hi>Miles.</hi>
+               </item>
+               <item>From <hi>Cookham</hi> to <hi>Wickham</hi> 5 <hi>Miles.</hi>
+               </item>
+               <item>From <hi>Cookham</hi> to <hi>Reading</hi> in Berkſhire 11 <hi>Miles.</hi>
+               </item>
+            </list>
+            <p>The ſame day at <hi>Norwich,</hi> and for 6 Miles round, happened a terrible Thunder and Lightning, where Eight Perſons, that were at Harveſt work, retiring into a Church Porch, when a great Clap of Thunder and Lightning came and ſtruck them all dead.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
